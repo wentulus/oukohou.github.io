@@ -1,6 +1,6 @@
 # Site settings
-title: oukohou
-subtitle: [ xlzx]
+title: xlzx
+subtitle: [xlzx]
 keywords: xlzx
 description: testing.
 baseurl: "" # the subpath of your site, e.g. /blog
