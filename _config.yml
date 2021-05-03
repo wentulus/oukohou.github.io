@@ -1,14 +1,14 @@
 # Site settings
 title: oukohou
-subtitle: [ 璇珠杂俎]
-keywords: oukohou
-description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
+subtitle: [ xlzx]
+keywords: xlzx
+description: testing.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.oukohou.wang/" # 你的域名
-page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
+url: "https://xlzx.xyz/" # 你的域名
+page_no_title: "xlzx's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: oukohou
-email: oukohou@outlook.com
+author: xlzx
+email: wentulus@outlook.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -49,7 +49,7 @@ menu:
     directory: guestbook/
     icon: icon-guestbook
   - page: 关于
-    directory: about/
+    directory: about-test/
     icon: icon-about
 #  - page: 订阅
 #    directory: feed.xml
@@ -69,14 +69,14 @@ links: # 友情链接
 
 
 # Google Analytics
-ga_track_id: 'UA-130856615-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'G-2LNXNNML7W'            # Format: UA-xxxxxx-xx
+ga_domain: xlzx.xyz              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 # Code hub settings
 codehub: # 代码仓库
   - title: Github
-    url: https://github.com/oukohou
+    url: https://github.com/wentulus
 
 
 valine:
