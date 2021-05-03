@@ -1,3 +1,4 @@
+<!--
 <div class="widget">
   <div class="widget-title"><i class="icon-code-hub"> 代码仓库</i></div>
   <ul class="codehub-list">
@@ -6,3 +7,4 @@
   {% endfor %}
   </ul>
 </div>
+-->
